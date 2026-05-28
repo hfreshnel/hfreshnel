@@ -60,13 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Freshnel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfreshnel&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfreshnel&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - 📧 hfreshnel@gmail.com
